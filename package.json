@@ -9,7 +9,7 @@
     },
     "devDependencies": {
         "@bokub/prettier-config": "^1.0.1",
-        "ava": "^3.12.1",
+        "ava": "^5.2.0",
         "codecov": "^3.0.4",
         "is-svg": "^3.0.0",
         "lyo": "latest",
